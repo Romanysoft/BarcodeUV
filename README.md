@@ -6,9 +6,8 @@ Barcode UV is a Mac OS X utility that easy and simple custom create more beautif
 =================================================================================
 
 
-![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_128/v1416617011/BarcodeUV/logo.png)
-
-[![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,w_124/v1411092419/app-store-button_pw05je.png)](https://itunes.apple.com/us/app/barcode-uv/id851630469?l=zh&ls=1&mt=12)
+[![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_100/v1416983052/common/buy.png)](https://shopper.mycommerce.com/checkout/cart/add/55399-2)
+[![](http://res.cloudinary.com/dfzokzfi5/image/upload/c_scale,h_96/v1416983052/common/cart.png)](https://shopper.mycommerce.com/checkout/cart/add/55399-2)
 
 
 
