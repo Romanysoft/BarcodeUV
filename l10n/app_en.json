@@ -1,0 +1,106 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Easily and simply creates custom, beautiful barcodes.",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
+        "BtnBuy": "Buy",
+        "BtnBuyDescription": "$35.99 | Official free upgrade.",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Support border style setting.",
+                "Support background and model color setting.",
+                "Support text font, color, font size, position adjustment setting.",
+                "Support barcode size, checksum, position adjustment setting.",
+                "Support background transparent setting.",
+                "Support reveal the save file in finder.",
+                "Support Retina display.",
+                "Support save to PDF, PNG, GIF, JPEG, JPG, EPS, SVG, TIFF file format.",
+                "Support barcode type: EAN8.",
+                "Support barcode type: EAN13.",
+                "Support barcode type: UPCE.",
+                "Support barcode type: UPCA.",
+                "Support barcode type: Code11.",
+                "Support barcode type: Code39.",
+                "Support barcode type: Code39Extended.",
+                "Support barcode type: Code93.",
+                "Support barcode type: Code93Extended.",
+                "Support barcode type: Code128.",
+                "Support barcode type: Code128A.",
+                "Support barcode type: Code128B.",
+                "Support barcode type: Code128C.",
+                "Support barcode type: MSImod10.",
+                "Support barcode type: MSImod11.",
+                "Support barcode type: MSImod1010.",
+                "Support barcode type: MSImod1110.",
+                "Support barcode type: GS1-128.",
+                "Support barcode type: POSTNE."
+                
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about BarcodeUV",
+            "list": [
+                {
+                    "reviewContent": "Great! With it, I finished my work!",
+                    "userName": "TQ1420836008",
+                    "professional": "Designers"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{7.16}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{BarcodeUV-v7.16.0-darwin-x64.zip}}",
+                        "size": "{{3.69MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4z8v83z62c1l/BarcodeUV-v7.16.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [
+            {
+                "name": "{{BarcodeUV for Mac}}",
+                "logo": "{{images/buy/buy.png}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-2}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
